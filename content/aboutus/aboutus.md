@@ -1,8 +1,8 @@
 +++
 author = "Hugo Authors"
-title = "Rich Content"
+title = "About Us"
 date = "2019-03-10"
-description = "A brief description of Hugo Shortcodes"
+description = "A brief description about Access Immigration"
 tags = [
     "shortcodes",
     "privacy",
@@ -19,24 +19,3 @@ We believe in success and our high values and dedication helped us to achieve th
 
 We believe in client satisfaction that is the highest achievement for the future growth in our business. Loyal Immigration will be happy to handle all types of customer queries in person, telephone or email communications. We advise our clients to achieve a safer and reliable path to attain the UK visa within the UK and outside the UK. Loyal Immigration can offer always the best services to our clients with responsible manner to deal the immigration matters in the UK.
 <!--more-->
----
-
-## YouTube Privacy Enhanced Shortcode
-
-{{< youtube ZJthWmvUzzc >}}
-
-<br>
-
----
-
-## Twitter Simple Shortcode
-
-{{< twitter 1085870671291310081 >}}
-
-<br>
-
----
-
-## Vimeo Simple Shortcode
-
-{{< vimeo_simple 48912912 >}}
