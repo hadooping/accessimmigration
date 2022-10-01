@@ -8,7 +8,7 @@ theme = "spectral"
 [params]
 fancyTitle = "Access Immigration" # title for frontpage, may include image
 copyright = "Access Immigration"
-description = 'Professional and expert solution for all your visa matters.<br />We operate on No Win - No fee'
+description = 'Professional and Expert solution for all your visa matters.<br />We operate on No Win - No fee basis'
 startbuttonText = "Activate"
 startbuttonLink = "/"
 body_is_markdown = true
@@ -36,8 +36,7 @@ title = "Services"
 enable = true
 title = 'We are here to help'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+Our first consultation is always free. Come and talk to us for your visa matters.
 '''
 
 [[params.one.icon]]
