@@ -1,8 +1,8 @@
 +++
 author = "Hugo Authors"
-title = "visacategories"
+title = "Sponsorship License for companies"
 date = "2019-03-05"
-description = "Guide to emoji usage in Hugo"
+description = "Sponsorship License for companies"
 tags = [
     "emoji",
 ]
