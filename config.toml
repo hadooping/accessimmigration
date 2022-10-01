@@ -8,7 +8,7 @@ theme = "spectral"
 [params]
 fancyTitle = "Access Immigration" # title for frontpage, may include image
 copyright = "Access Immigration"
-description = 'Professional and expert solution for your visa matters'
+description = 'Professional and expert solution for all your visa matters.<br />We operate on No Win - No fee'
 startbuttonText = "Activate"
 startbuttonLink = "/"
 body_is_markdown = true
