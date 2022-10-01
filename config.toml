@@ -20,8 +20,8 @@ url = '/'
 title = "Home"
 
 [[params.menu.main]]
-url = '/posts/'
-title = "posts"
+url = '/aboutus/'
+title = "aboutus"
 
 [[params.menu.main]]
 url = '/services/'
