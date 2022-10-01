@@ -1,7 +1,6 @@
 +++
 author = "Hugo Authors"
 title = "About Us"
-date = "2019-03-10"
 description = "A brief description about Access Immigration"
 tags = [
     "shortcodes",
