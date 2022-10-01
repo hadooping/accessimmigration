@@ -24,6 +24,10 @@ url = '/aboutus/'
 title = "aboutus"
 
 [[params.menu.main]]
+url = '/services/visacategories/'
+title = "Sponsorship License for companies"
+
+[[params.menu.main]]
 url = '/services/'
 title = "Services"
 
