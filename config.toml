@@ -133,9 +133,9 @@ special = false
 enable = true
 title = "Contact"
 body = "Leave us a message."
-phone = "+49 (0) 030 000 000"
+phone = "+44 78854 57074"
 address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-email = "nospam@example.com"
+email = "info@accessimmigration.com"
 subject = "New Submission!"
 plain = false
 
