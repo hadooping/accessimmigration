@@ -1,13 +1,13 @@
 baseURL = "/"
-title = "Access Immigration"
+title = "Advice Immigration"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = "7"
 theme = "spectral"
 
 [params]
-fancyTitle = "Access Immigration" # title for frontpage, may include image
-copyright = "Access Immigration"
+fancyTitle = "Advice Immigration" # title for frontpage, may include image
+copyright = "Advice Immigration"
 description = 'Professional and Expert solution for all your visa matters.<br />We operate on No Win - No fee basis'
 startbuttonText = "Activate"
 startbuttonLink = "/"
@@ -135,7 +135,7 @@ title = "Contact"
 body = "Leave us a message."
 phone = "+447885457074"
 address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-email = "info@accessimmigration.com"
+email = "info@Adviceimmigration.com"
 subject = "New Submission!"
 plain = false
 
